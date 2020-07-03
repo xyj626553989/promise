@@ -1,8 +1,8 @@
 {
   "name": "promiss",
-  "version": "1.0.0",
-  "private":"<%=private%>",
-  "author":"<%=author%>",
+  "version": "1.0.1",
+  "private": "<%=private%>",
+  "author": "<%=author%>",
   "description": "<%=description=>",
   "main": "index.js",
   "scripts": {
